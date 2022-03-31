@@ -1,0 +1,38 @@
+body {
+  background-image: linear-gradient(to right, #031b33, #284d73);
+  text-align: center;
+}
+
+img {
+  width: 80%;
+  filter: drop-shadow(4px 6px 4px #232931);
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.dice {
+  display: inline-block;
+}
+
+.main-title {
+  font-family: 'Lobster2', cursive;
+  font-size: 6rem;
+  color: #91d3ff;
+  text-shadow: 5px 0 #232931;
+
+}
+
+.refresh-container {
+  padding-top: 70px;
+
+}
+
+.refresh-button {
+  background-color: #0f171c;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1rem;
+  padding: 15px 32px;
+}
